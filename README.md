@@ -6,7 +6,7 @@ Web Developer and Designer
 
 I'm Web Developer and Designer with a passion for building great products. Over the past year, I've been building websites from scratch and also building a parser for a new programming language.
 
-* 🧠  I'm learning Svelte
+* 🧠  I'm learning how to write Clean Code
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
